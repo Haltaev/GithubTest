@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GithubTest</string>
+    <string name="day">День</string>
+    <string name="week">Неделя</string>
+    <string name="month">Месяц</string>
+    <string name="project_list">Список проектов</string>
+    <string name="loading_projects">Загрузка проектов…</string>
+    <string name="project_name">Название проекта</string>
+    <string name="user_name">Имя автора</string>
+    <string name="description">Описание проекта</string>
+    <string name="loading_project">Загрузка проекта…</string>
+    <string name="error_no_internet">Проблемы с интернет соединением. Проверьте подключение и повторите попытку</string>
+    <string name="error_unknown">Непредвиденная ошибка</string>
+    <string name="refresh">Обновить</string>
+
+</resources>
